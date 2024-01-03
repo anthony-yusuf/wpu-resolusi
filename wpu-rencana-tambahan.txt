@@ -1,8 +1,8 @@
 Rencana Tambahan
 
 - Belajar Vue js
-  - react
+  - angular
   - jquery
-- Belajar Photoshop
+
 - Belajar Psikotes
 - Belajar UI/UX
