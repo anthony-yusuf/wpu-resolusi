@@ -3,6 +3,8 @@ Rencana Tambahan
 - Belajar Vue js
   - react
   - jquery
+  - next js
 - Belajar Photoshop
 - Belajar Psikotes
 - Belajar UI/UX
+- Belajar cloud
