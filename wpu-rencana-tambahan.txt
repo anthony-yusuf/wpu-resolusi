@@ -1,5 +1,7 @@
 Rencana Tambahan
 
 - Belajar Vue js
+  - react
+  - jquery
 - Belajar Psikotes
 - Belajar UI/UX
