@@ -4,6 +4,7 @@ Rencana Tambahan
   - react
   - jquery
   - next js
+  - nuxt
 - Belajar Photoshop
 - Belajar Psikotes
 - Belajar UI/UX
